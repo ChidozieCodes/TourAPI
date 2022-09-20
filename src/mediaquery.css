@@ -1,0 +1,274 @@
+@media screen and (max-width: 1280px) {
+    body{
+        //background-color: antiquewhite;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        //background-color: firebrick;
+    }
+    .tourHolder {
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 912px) {
+   body {
+        //background-color: yellowgreen;
+   }
+}
+
+@media screen and (max-width: 820px) {
+    body {
+        //background-color: blueviolet;
+    }
+    .tourHolder {
+        width: 85%;
+    }
+    .tourImg {
+        height: 330px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        //background-color: darkcyan;
+    }
+    
+    .tourHolder {
+        width: 85%;
+    }
+    
+    .tourImg {
+        height: 330px;
+    }
+}
+@media screen and (max-width: 540px) {
+    body {
+        //background-color: coral;
+    }
+    
+    .tourHolder {
+        width: 90%;
+    }
+    
+    .tourImg {
+        height: 240px;
+    }
+    .tour1{
+        width: 85%;
+        margin: 10% auto;
+    }
+    .notInterested {
+        font-size: 16px;
+        margin-top: 5%;
+        width: 35%;
+    }
+    .readmore {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    body {
+        //background-color: gold;
+    }
+    
+    .tourHolder {
+        width: 90%;
+    }
+    
+    .tourImg {
+        height: 190px;
+    }
+    
+    .tour1 {
+        width: 85%;
+        margin: 10% auto;
+    }
+    .notInterested {
+        font-size: 15px;
+        margin-top: 5%;
+        width: 45%;
+        margin-left: 30%;
+        font-weight: bold;
+    }
+    
+    .readmore {
+        font-size: 15px;
+    }
+    .head1 {
+        font-size: 13px;
+    }
+    .head2 {
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (max-width: 412px) {
+    body {
+        //background-color: seagreen;
+    }
+    
+    .tourHolder {
+        width: 90%;
+    }
+    
+    .tourImg {
+        height: 190px;
+    }
+    
+    .tour1 {
+        width: 90%;
+        margin: 10% auto;
+    }
+    
+    .notInterested {
+        font-size: 15px;
+        margin-top: 5%;
+        width: 45%;
+         margin-left: 30%;
+        font-weight: bold;
+    }
+    
+    .readmore {
+        font-size: 15px;
+    }
+    
+    .head1 {
+        font-size: 13px;
+    }
+    
+    .head2 {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    body {
+        //background-color: tomato;
+    }
+    
+    .tourHolder {
+         width: 95%;
+    }
+    
+    .tourImg {
+        height: 190px;
+    }
+    
+    .tour1 {
+         width: 90%;
+        margin: 10% auto;
+    }
+    
+    .notInterested {
+        font-size: 15px;
+        margin-top: 5%;
+        width: 45%;
+        margin-left: 30%;
+        font-weight: bold;
+    }
+    
+    .readmore {
+        font-size: 15px;
+    }
+    
+    .head1 {
+        font-size: 13px;
+    }
+    
+    .head2 {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    body {
+        //background-color: lawngreen;
+    }
+    
+    .tourHolder {
+        width: 95%;
+    }
+    
+    .tourImg {
+        height: 170px;
+    }
+    
+    .tour1 {
+        width: 90%;
+        margin: 10% auto;
+    }
+    
+    .notInterested {
+        font-size: 15px;
+        margin-top: 5%;
+        width: 45%;
+        margin-left: 30%;
+        font-weight: bold;
+    }
+    
+    .readmore {
+        font-size: 14px;
+    }
+    
+    .head1 {
+        font-size: 13px;
+    }
+    
+    .head2 {
+        font-size: 13px;
+    }
+    .tourDescription p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 320px) {}
+
+@media screen and (max-width: 280px) {
+    body {
+        //background-color: navy;
+    }
+    
+    .tourHolder {
+        width: 100%;
+    }
+    
+    .tourImg {
+        height: 150px;
+    }
+    
+    .tour1 {
+        width: 90%;
+        margin: 10% auto;
+    }
+    
+    .notInterested {
+        font-size: 12px;
+        margin-top: 5%;
+        width: 45%;
+        margin-left: 28%;
+        font-weight: bold;
+    }
+    
+    .readmore {
+        font-size: 13px;
+    }
+    
+    .head1 {
+        font-size: 11px;
+    }
+    
+    .head2 {
+        font-size: 11px;
+    }
+    
+    .tourDescription p {
+        font-size: 13px;
+    }
+}
